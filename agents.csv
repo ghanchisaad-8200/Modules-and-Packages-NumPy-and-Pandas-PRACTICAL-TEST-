@@ -1,0 +1,13 @@
+AgentID,Name,Zone,City,StartDate,Pay,Incentive
+401,Kavita,North,Delhi,2020-02-10,28000,2500
+402,Lalit,South,Chennai,2019-11-05,32000,pending
+403,Manoj,North,Jaipur,2021-06-18,26000,1800
+404,Nisha,East,Kolkata,2022-01-25,,3000
+405,Omkar,South,Chennai,2018-09-14,36000,4500
+405,Omkar,South,Chennai,2018-09-14,36000,4500
+406,Pooja,East,Patna,2023-03-07,24000,pending
+407,Qasim,West,Mumbai,2020-08-29,30000,2200
+408,Rhea,West,Pune,2021-12-01,29000,2700
+409,Sameer,North,Delhi,2019-04-16,34000,3900
+410,Tina,East,Kolkata,2024-02-20,25000,1200
+411,Umesh,South,Chennai,2022-10-11,31000,2000
